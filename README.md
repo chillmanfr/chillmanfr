@@ -74,7 +74,7 @@ J'aime concevoir des applications, automatiser des tâches, créer des expérien
 ## 📫 Me contacter
 
 <p>
-<a href="https://github.com/TON_USERNAME">
+<a href="https://github.com/chillmanfr">
 <img src="https://img.shields.io/badge/GitHub-Yuri-8A2BE2?style=for-the-badge&logo=github"/>
 </a>
 </p>
